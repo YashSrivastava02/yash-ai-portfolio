@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Yash Srivastava's interactive Applied AI engineering portfolio with an NVIDIA-powered AI twin.",
   "type": "module",
-  "homepage": "https://yash-ai-portfolio.up.railway.app",
+  "homepage": "https://yash-ai-portfolio-production.up.railway.app",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YashSrivastava02/yash-ai-portfolio.git"

@@ -1,7 +1,7 @@
 import { caseStudies, getCaseStudyPath } from "@/data/case-studies";
 import { about, personalInfo } from "@/data/portfolio";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://yash-ai-portfolio.up.railway.app";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://yash-ai-portfolio-production.up.railway.app";
 export const ogLocale = "en_IN";
 
 export const siteConfig = {
